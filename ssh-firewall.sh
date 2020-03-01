@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo uwf enable
-sudo uwf allow 22
-sudo uwf allow ssh
-sudo uwf reload
+sudo ufw enable
+sudo ufw allow 22
+sudo ufw allow ssh
+sudo ufw reload
