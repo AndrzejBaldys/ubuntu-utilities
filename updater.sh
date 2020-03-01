@@ -2,4 +2,4 @@
 
 sudo apt update -y
 sudo apt upgrade -y
-sudo apt autoremov -y
+sudo apt autoremove -y
